@@ -4,14 +4,14 @@
 
 <div align="center">
   <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
+  <h1>prince master</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+    Princemaster project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
+        <a href="https://t.me/PRINCEMASTER">Telegram Channel</a> |
         <a href="https://t.me/AsenaSupport">Telegram Group</a> |
     <br>
 </p>
@@ -28,8 +28,8 @@
 
 > [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What is princemaster?
+**Princemaster,** is a WhatsApp helper bot written by [prince](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
@@ -74,9 +74,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
+[![prince](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
 ---|---|---|---|---
-[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
+[Prince](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
 Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
 
 ## Thanks To
